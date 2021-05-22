@@ -21,4 +21,9 @@ Two Naive Bayesian classifiers are generated. The sensitivity and specificity sc
 The deep learning model achieved 95.2 percent and 99.6 percent, respectively, for sensitivity and specificity. It has a false positive rate of 1.4 percent. In comparison, deep learning model performed the best. While Naive Bayesian and deep learning methods explored in this paper did not outperform Graham's metrics, they still performed generally well (>$80 percent). 
 
 ## Resources
-To download raw data used in this project, visit [Spam Assassin](https://spamassassin.apache.org/old/publiccorpus/).
+To download raw data used in this project, visit [Spam Assassin](https://spamassassin.apache.org/old/publiccorpus/). Downloaded versions are as follows:
+- 20030228_easy_ham.tar.bz2
+- 20030228_easy_ham_2.tar.bz2
+- 20030228_hard_ham.tar.bz2
+- 20030228_spam.tar.bz2
+- 20050311_spam_2.tar.bz2
